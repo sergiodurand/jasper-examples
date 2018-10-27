@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JasperExamplesApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.bkpmind.reports.jasper_examples.JasperExamplesApplication",
+            "args": "",
+            "projectName": "jasper_examples"
+        }
+    ]
+}
